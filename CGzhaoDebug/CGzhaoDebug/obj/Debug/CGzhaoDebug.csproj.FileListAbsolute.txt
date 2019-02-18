@@ -1,0 +1,15 @@
+D:\ZhaoPrograms\Data\MyDebugLog\CGzhaoDebug\CGzhaoDebug\bin\Debug\CGzhaoDebug.dll
+D:\ZhaoPrograms\Data\MyDebugLog\CGzhaoDebug\CGzhaoDebug\bin\Debug\CGzhaoDebug.pdb
+D:\ZhaoPrograms\Data\MyDebugLog\CGzhaoDebug\CGzhaoDebug\bin\Debug\UnityEditor.dll
+D:\ZhaoPrograms\Data\MyDebugLog\CGzhaoDebug\CGzhaoDebug\bin\Debug\UnityEngine.dll
+D:\ZhaoPrograms\Data\MyDebugLog\CGzhaoDebug\CGzhaoDebug\bin\Debug\Unity.Cecil.dll
+D:\ZhaoPrograms\Data\MyDebugLog\CGzhaoDebug\CGzhaoDebug\bin\Debug\Unity.SerializationLogic.dll
+D:\ZhaoPrograms\Data\MyDebugLog\CGzhaoDebug\CGzhaoDebug\bin\Debug\Unity.DataContract.dll
+D:\ZhaoPrograms\Data\MyDebugLog\CGzhaoDebug\CGzhaoDebug\bin\Debug\ExCSS.Unity.dll
+D:\ZhaoPrograms\Data\MyDebugLog\CGzhaoDebug\CGzhaoDebug\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\ZhaoPrograms\Data\MyDebugLog\CGzhaoDebug\CGzhaoDebug\bin\Debug\Unity.CecilTools.dll
+D:\ZhaoPrograms\Data\MyDebugLog\CGzhaoDebug\CGzhaoDebug\bin\Debug\UnityEditor.xml
+D:\ZhaoPrograms\Data\MyDebugLog\CGzhaoDebug\CGzhaoDebug\bin\Debug\UnityEngine.xml
+D:\ZhaoPrograms\Data\MyDebugLog\CGzhaoDebug\CGzhaoDebug\obj\Debug\CGzhaoDebug.csprojResolveAssemblyReference.cache
+D:\ZhaoPrograms\Data\MyDebugLog\CGzhaoDebug\CGzhaoDebug\obj\Debug\CGzhaoDebug.dll
+D:\ZhaoPrograms\Data\MyDebugLog\CGzhaoDebug\CGzhaoDebug\obj\Debug\CGzhaoDebug.pdb
